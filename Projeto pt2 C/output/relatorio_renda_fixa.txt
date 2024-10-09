@@ -1,0 +1,11 @@
+--- Relatório de Simulações de Renda Fixa ---
+Produto: Cdb
+Valor Inicial: 0.00
+Valor Final (após 0 meses): 0.00
+Rendimento Total: 0.00
+-----------------------------------
+Produto: B3
+Valor Inicial: 1.00
+Valor Final (após 24 meses): 1.22
+Rendimento Total: 0.22
+-----------------------------------
